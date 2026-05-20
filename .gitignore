@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+.eggs/
+*.egg
+*.manifest
+*.spec
+dist/
+build/
+*.so
+*.dylib
+*.dll
+*.log
+
+# Virtual environment
+.venv/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Others
+*.sqlite3
+coverage/
+*.cover
+.tox/
+.env
+.env.*
